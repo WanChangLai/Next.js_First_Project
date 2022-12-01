@@ -1,4 +1,4 @@
-// news.js will be served as our-domain.com/news
+// our-domain.com/news
 
 function NewsPage() {
   return <h1>The News Page</h1>;
