@@ -1,4 +1,5 @@
-// our-domain.com/news/something-important
+// our-domain.com/news/anything
+//special syntax [] means anything
 
 function DetailPage() {
   return <h1>The Detail Page</h1>;
